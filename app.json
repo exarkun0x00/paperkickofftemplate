@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "template_native",
-    "slug": "template_native",
+    "name": "kickoff",
+    "slug": "kikoff",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
